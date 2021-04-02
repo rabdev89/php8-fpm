@@ -1,5 +1,5 @@
 FROM php:8.0-fpm
-LABEL Maintainer="Ronald Baniqued <jeff.decena@yahoo.com>" \
+LABEL Maintainer="Ronald Baniqued <rab.dev89@gmail.com>" \
       Description="Minimal PHP 8.0 with FPM"
 
 # Install dependencies
